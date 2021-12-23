@@ -138,7 +138,7 @@ private:
   bool try_distributivity(node n)
   {
     /* TODO */
-
+  
     //series of bool to indicate feasibility in different level 
     bool possible = false, possible_child = false, possible_child_1 = false;
 
